@@ -1,0 +1,8 @@
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\controller\ProductController.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\exception\ProductAlreadyExistsException.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\exception\ProductNotFoundException.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\model\Product.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\ProductsApiApplication.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\repository\ProductRepository.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\service\impl\ProductServiceImpl.java
+C:\Users\Sara\OneDrive\Documentos\PROGRAMMING\ARQUITECTURA\tutoriales\products-api\src\main\java\com\eafit\tutorial\service\ProductService.java
